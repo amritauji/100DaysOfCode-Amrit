@@ -41,6 +41,3 @@ Worked on square matrices (NxN) and explored:
 
 ---
 
-## 📸 Output Preview
-
-**Input (2D Matrix):**
