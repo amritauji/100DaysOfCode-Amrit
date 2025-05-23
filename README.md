@@ -1,11 +1,5 @@
 # 100DaysOfCode-Amrit
-This repo consist of code i do everyday for the next more 99 days. 
-
-# 💯 100 Days of Code - Day 1
-
-Welcome to **Day 1** of my 100 Days of Code Challenge! 🚀  
-Today, I focused on mastering **basic array operations** and **2D matrix manipulation in Java**.
-
+This repo consist of code i do everyday for the next more 98 days. 
 ---
 
 ## 🔢 Topics Covered
