@@ -19,7 +19,7 @@ Worked on square matrices (NxN) and explored:
 ---
 ### 3. Array List (23-05-25)
 Array list operations
-- ✅ ** add**
+- ✅ **add**
 - ✅ **add at index**
 - ✅ **get**
 - ✅ **set**
