@@ -10,17 +10,27 @@ Today, I focused on mastering **basic array operations** and **2D matrix manipul
 
 ## 🔢 Topics Covered
 
-### 1. Array Operations
+### 1. Array Operations (22-05-25)
 Implemented multiple functionalities using a 1D array:
 - ✅ Find the **maximum** element
 - ✅ Calculate the **sum** of all elements
 - ✅ **Reverse** the array
 - ✅ Print all possible **subarrays**
 
-### 2. 2D Matrix Operations
+### 2. 2D Matrix Operations (22-05-25)
 Worked on square matrices (NxN) and explored:
 - ✅ **Matrix Transpose**
 - ✅ **90-degree Clockwise Rotation** of the matrix
+
+---
+### 3. Array List (23-05-25)
+Array list operations
+- ✅ ** add**
+- ✅ **add at index**
+- ✅ **get**
+- ✅ **set**
+- ✅ **remove**
+- ✅ **size** 
 
 ---
 
@@ -38,6 +48,10 @@ Worked on square matrices (NxN) and explored:
 - Reads a square matrix and:
   - Transposes the matrix
   - Rotates the matrix 90° clockwise
+
+### `Day2.java`
+- Creating Array list:
+- operation of array list add,get,set,remove,size
 
 ---
 
