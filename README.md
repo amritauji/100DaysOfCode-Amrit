@@ -27,25 +27,9 @@ Array list operations
 - ✅ **size** 
 
 ---
-
-## 📂 Files
-
-### `Day1.java`
-- A menu-driven Java program for basic array tasks.
-- Includes options to:
-  - Find max
-  - Find sum
-  - Reverse array
-  - Print all subarrays
-
-### `Day1_2DMATRIX.java`
-- Reads a square matrix and:
-  - Transposes the matrix
-  - Rotates the matrix 90° clockwise
-
-### `Day2.java`
-- Creating Array list:
-- operation of array list add,get,set,remove,size
+### 4. Search an element in an array (24-05-25)
 
 ---
+
+
 
