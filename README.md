@@ -40,9 +40,10 @@ Find the maximum sum of two distinct integers in the array.
 ---
 ### 7. Remove all Occurrences of an Element from Array in Java (27-05-25)
 ---
-### 7. Matrix operation (28-05-25)
+### 8. Matrix operation (28-05-25)
 Addition of two matrices
 ---
-
-
+### 9. Pattern (29-05-25)
+Right Angle triangle 
+---
 
