@@ -46,4 +46,7 @@ Addition of two matrices
 ### 9. Pattern (29-05-25)
 Right Angle triangle 
 ---
+### 10. Factorial  (30-05-25)
+ 
+---
 
