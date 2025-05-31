@@ -46,7 +46,7 @@ Addition of two matrices
 ### 9. Pattern (29-05-25)
 Right Angle triangle 
 ---
-### 10. Factorial  (30-05-25)
+### 11. Factorial  (30-05-25)
  
 ---
 ### 10. Check the given number is NEON number (31-05-25)
