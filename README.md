@@ -49,8 +49,10 @@ Right Angle triangle
 ### 11. Factorial  (30-05-25)
  
 ---
-### 10. Check the given number is NEON number (31-05-25)
+### 11. Check the given number is NEON number (31-05-25)
  Neon numbers are 0,1,9
+---
+### 12. Check the same number exist (1-06-25)
 ---
 
 
